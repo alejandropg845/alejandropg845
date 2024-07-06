@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full stack web developer and a college student in process and eager to continue learning and strengthen my knowledge in my stack.<br>I am generally learning and gaining new knowledge as it is my hobby.<br>I love music.
+I am a full stack web developer and a college student in process and eager to continue learning and strengthen my knowledge in my stack.<br>Generally, I'm learning and gaining new knowledge as it is my hobby.<br>Music lover
 <br>
 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-de-jesús-páez-garrido-381657267) 
 
@@ -20,8 +20,6 @@ LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alejandropg845&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alejandropg845&icon=0&color=0)](https://visitcount.itsvg.in)
