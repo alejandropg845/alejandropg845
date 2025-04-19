@@ -30,10 +30,10 @@ Hi! I'm **Alejandro Páez**, a Full Stack Developer specialized in building robu
 
 ---
 
-# 💼 Projects
-- **Collaborative Task Manager** – Real-time task management for remote teams using SignalR.
-- **Social Network** – Interactive platform with chat and post features.
-- **E-commerce** – Online store managing users, products, and payments.
+# 📂 Projects
+- **[Collaborative Task Manager](https://task-manager-client-fje4hnhnape7e0a3.canadacentral-01.azurewebsites.net/)** – Real-time task management for remote teams using SignalR.
+- **[Social Network](https://alejandropg845.github.io/book-me-page/)** – Interactive platform with chat and post features.
+- **[AliExpress Clone](https://alejandropg845.github.io/alexpress-page/)** – Online store managing users, products, and payments.
 
 ---
 
@@ -43,11 +43,6 @@ Hi! I'm **Alejandro Páez**, a Full Stack Developer specialized in building robu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alejandropg845&theme=dark&hide_border=false)
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandropg845&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alejandropg845&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
